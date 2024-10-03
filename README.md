@@ -31,8 +31,8 @@ Apply the Laplacian operator to the RGB image (image2) using OpenCV's cv2.Laplac
 <br>
 
 ## Program:
-### Developed By : Dhiyaneshwar P
-### Register Number: 212222110009
+### Developed By : Jeyabalan T
+### Register Number: 212222240040
 </br>
 
 ### 1. Smoothing Filters
